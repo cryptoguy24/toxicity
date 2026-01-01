@@ -1,0 +1,19 @@
+[project]
+name = "molecular-optimizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "joblib>=1.5.3",
+    "keras>=3.13.0",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "rdkit>=2025.9.3",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.20.0",
+    "xgboost>=3.1.2",
+]
