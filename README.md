@@ -1,5 +1,7 @@
 # 🧪 Toxicity Prediction Using Molecular Descriptors and Fingerprints (Tox21)
 
+![Toxicity Outline](data\Toxicity_outline.png)
+
 ## 📌 Project Overview
 
 This project implements an end-to-end machine learning pipeline for predicting chemical toxicity using the Tox21 dataset. Each toxicity assay is treated as an independent binary classification problem, with the goal of accurately identifying toxic compounds (class = 1) under strong class imbalance.
