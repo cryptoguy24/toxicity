@@ -1,6 +1,6 @@
 # 🧪 Toxicity Prediction Using Molecular Descriptors and Fingerprints (Tox21)
 
-![Toxicity Outline](data\Toxicity_outline.png)
+![Toxicity Outline](data/Toxicity_outline.png)
 
 ## 📌 Project Overview
 
